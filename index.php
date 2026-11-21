@@ -1,0 +1,46 @@
+<html>
+	<head>
+	</head>
+	
+	<body style="width: 100%, max-width: 200px, margin: 0 auto;">
+
+		<h3>
+			<span style="font-family: Arial, Helvetica, sans-serif;">Radios :</span>
+		</h3>
+
+		<p bis_size='{"x":10,"y":60,"w":1479,"h":18,"abs_x":196,"abs_y":411}' style="margin-left: 80px;">
+			<span style="font-family: Arial, Helvetica, sans-serif;">
+				<a href="http://icecast.rtl.fr/rtl-1-44-128" bis_size='{"x":10,"y":60,"w":29,"h":17,"abs_x":196,"abs_y":411}'>RTL</a>
+			</span>
+		</p>
+
+		<p bis_size='{"x":10,"y":94,"w":1479,"h":18,"abs_x":196,"abs_y":445}' style="margin-left: 80px;">
+			<span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://icecast.rtl2.fr/rtl2-1-44-128">RTL2</a>
+			</span>
+		</p>
+
+		<p bis_size='{"x":10,"y":94,"w":1479,"h":18,"abs_x":196,"abs_y":445}' style="margin-left: 80px;">
+			<span style="font-family: Arial, Helvetica, sans-serif;"><a href="http://rfm.lmn.fm/rfm.mp3">RFM</a>
+			</span>
+		</p>
+
+			<br>
+
+		<h3 bis_size='{"x":10,"y":94,"w":1479,"h":18,"abs_x":196,"abs_y":445}'>
+			<span style="font-family: Arial, Helvetica, sans-serif;">Vid&eacute;o :</span>
+		</h3>
+
+		<p bis_size='{"x":10,"y":94,"w":1479,"h":18,"abs_x":196,"abs_y":445}' style="margin-left: 80px;">
+			<a href="http://192.168.1.18/christmas_songs/Greatest Vintage Christmas Classics.mp4">
+				<span style="font-family: Arial, Helvetica, sans-serif;">Greatest Vintage Christmas Classic</span>
+			</a>
+		</p>
+
+		<p bis_size='{"x":10,"y":94,"w":1479,"h":18,"abs_x":196,"abs_y":445}' style="margin-left: 80px;">
+			<a href="http://192.168.1.18/christmas_songs/Dean Martin - Classic Christmas (Full Album).mp4">
+				<span style="font-family: Arial, Helvetica, sans-serif;">Dean Martin - Classic Christmas (Full Album)</span>
+			</a>
+		</p>
+
+	</body>
+</html>
